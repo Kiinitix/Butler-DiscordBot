@@ -1,3 +1,5 @@
+#bot for discord server.......
+
 import discord
 import os
 import sys
